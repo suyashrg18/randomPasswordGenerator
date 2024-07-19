@@ -30,6 +30,12 @@ body{
 
 }
 
+.display input{
+    outline: 0;
+    border: 0;
+    font-size: 24px;
+}
+
 .container h1{
     font-weight: 500;
     font-size: 45px;
